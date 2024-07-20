@@ -1,0 +1,7 @@
+google-cloud-pubsub
+google-cloud-firestore
+gspread
+oauth2client
+selenium
+python-dotenv
+flask
